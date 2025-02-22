@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SimonSweden, glad to share experiences and perspectives
-- 👀 Business background with experience of developing partnerships with Azure, Github, AWS, Gitlab, and Global Semiconductor companies.
+- 👀 Business background with experience of leading projects with Azure, Github, AWS, Gitlab, and Global Semiconductor companies.
 - 🌱 Hobby high-level programmer, currently learning python, javascript and node.js
 - 💞️ I’m looking to collaborate on AI fintech solutions
 - 📫 How to reach me: drop an email to info@searchsynonym.com
