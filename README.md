@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @SimonSweden
-- 👀 I’m interested in AI, banking, trading systems, and automation of finance operations
-- 🌱 I’m currently learning python, javascript and node.js
+- 👋 Hi, I’m @SimonSweden, glad to share experiences and perspectives
+- 👀 Business background with experience of developing partnerships with Azure, Github, AWS, Gitlab, and Global Semiconductor companies.
+- 🌱 Hobby high-level programmer, currently learning python, javascript and node.js
 - 💞️ I’m looking to collaborate on AI fintech solutions
-- 📫 How to reach me: drop an email to ullskogen@gmail.com
-- ⚡ Fun fact: What does Skandiabanken, Proact and Cisco have in common? ... ME :O ... or they all had me atleast :X
+- 📫 How to reach me: drop an email to info@searchsynonym.com
+- ⚡ Fun fact: What does Skandia, IAR, and Cisco have in common? ... ME :O ... or they all had me working for them atleast :X
 - 
-- A list of systems I've worked with:
+- A list of systems I'm familiar with:
 - AbaSecurities
 - VPC
 - Infront
@@ -13,8 +13,10 @@
 - GCP
 - Salesforce
 - Fortnox
-- MS Dynamics
-- Cisco AppDynamics, Meraki, Intersight, and the entire Cisco portfolio
+- Microsoft Dynamics
+
+  I have lead projects for integration and implementation of:
+- Cisco AppDynamics, Splunk, Meraki, and all types of Cisco solutions.
 - Trello
 - Jira
 - Airtable
@@ -23,7 +25,7 @@
 - Wordpress
 - Visual Studio code
 - MySQL
-- The most popular LLMs
+- The most popular LLMs, Github Copilot
 And many more!
 
 <!---
